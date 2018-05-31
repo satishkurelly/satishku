@@ -1,0 +1,38 @@
+/* your styles go here */
+
+.thumbnail {
+    height: 180px !important;
+}
+
+.client-sita {
+    margin-top: 40px;
+}
+
+.client-amzn {
+
+}
+
+.client-assurant {
+    margin-top: 50px;
+}
+
+.client-t-mobile {
+    margin-top: 30px;
+}
+
+
+
+.card {
+    margin-bottom: 60px;
+}
+
+.card .card-content {
+    padding-bottom: 30px;
+}
+
+#skills h4 {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    text-align: left;
+}
